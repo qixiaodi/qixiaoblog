@@ -24,7 +24,7 @@
     "vars": {
         "AUTH_ENABLED": "true",
         "AUTH_USERNAME": "123456",
-        "AUTH_PASSWORD": "linuxdo",
-        "AUTH_SECRET": "123456"
+        "AUTH_PASSWORD": "123456",
+        "AUTH_SECRET": "79eab209-e390-4575-bfba-81cf3ea040d5"
     }
 }
